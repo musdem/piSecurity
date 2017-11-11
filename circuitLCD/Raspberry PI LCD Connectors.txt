@@ -1,0 +1,20 @@
+Raspberry PI LCD Connectors
+5V				negative line
+GND				positive line
+negative line	RW
+GPIO14			E
+GPIO15			RS
+GPIO10			D7
+GPIO9 			D6
+GPIO11			D5
+GPIO5 			D4
+GPIO6 			D3
+GPIO13 			D2
+GPIO19 			D1
+GPIO26			D0
+
+V 				Resistor			negative line
+K 				positive line
+V0				middle knob
+VDD				negative line
+VSS				positive line
